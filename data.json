@@ -1,0 +1,116 @@
+{
+   "companies":{
+      "companies_name":[
+         "Google",
+         "Amazon"
+      ],
+      "managers":[
+         "Sundar Pichai",
+         "Jeff Bezos"
+      ],
+      "employees_amazon":{
+         "IT":"Harmony Lorinda",
+         "Management":"Shana Addy",
+         "Marketing":[
+            "Leyla Stacy",
+            "Bethney Kiara"
+         ],
+         "Finance":"Jarred Egbert"
+      },
+      "employees_google":{
+         "IT":"Rolland Lyla",
+         "Management":"Steward Goodwin",
+         "Marketing":[
+            "Molly Rylie",
+            "Bryson Reenie"
+         ],
+         "Finance":"Morley Denise"
+      },
+      "recruiters_amazon":[
+         "Darrell Lillie",
+         "Damian Bodhi"
+      ],
+      "recruiters_google":[
+         "Jonie Phillip",
+         "Janine Woody"
+      ],
+      "users":[
+         "Daniel Edmund",
+         "Julia Matvei",
+         "Tamara Haci",
+         "Linette Spartak"
+      ],
+      "jobs_google":[
+         {
+            "state":"yes",
+            "salary":10000,
+            "name":"Software Developer Engineer",
+            "experience":[
+               2,
+               6
+            ],
+            "graduation":[
+               2002,
+               2020
+            ],
+            "average":[
+               8,
+               null
+            ]
+         },
+         {
+            "state":"yes",
+            "salary":5000,
+            "name":"Software Developer Engineer Intern",
+            "experience":[
+               0,
+               2
+            ],
+            "graduation":[
+               null,
+               null
+            ],
+            "average":[
+               9,
+               null
+            ]
+         }
+      ],
+      "jobs_amazon":[
+         {
+            "state":"yes",
+            "salary":12000,
+            "name":"Software Developer Engineer",
+            "experience":[
+               1,
+               null
+            ],
+            "graduation":[
+               2014,
+               2020
+            ],
+            "average":[
+               9,
+               null
+            ]
+         },
+         {
+            "state":"yes",
+            "salary":6000,
+            "name":"Software Developer Engineer Intern",
+            "experience":[
+               0,
+               2
+            ],
+            "graduation":[
+               null,
+               null
+            ],
+            "average":[
+               9.35,
+               null
+            ]
+         }
+      ]
+   }
+}
